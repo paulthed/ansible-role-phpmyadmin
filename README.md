@@ -32,8 +32,8 @@ The username and password with which PHPMyAdmin will attempt to log into the MyS
 
   - geerlingguy.apache
   - geerlingguy.mysql
-  - geerlingguy.php
-  - geerlingguy.php-mysql
+  - paulthed.php
+  - paulthed.php-mysql
 
 ## Example Playbook
 

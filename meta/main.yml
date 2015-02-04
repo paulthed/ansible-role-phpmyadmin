@@ -2,8 +2,8 @@
 dependencies:
   - { role: geerlingguy.apache }
   - { role: geerlingguy.mysql }
-  - { role: geerlingguy.php-mysql }
-  - { role: geerlingguy.php }
+  - { role: paulthed.php-mysql }
+  - { role: paulthed.php }
 
 galaxy_info:
   author: geerlingguy

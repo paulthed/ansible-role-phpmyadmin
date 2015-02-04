@@ -9,6 +9,6 @@
   roles:
     - geerlingguy.apache
     - geerlingguy.mysql
-    - geerlingguy.php
-    - geerlingguy.php-mysql
+    - paulthed.php
+    - paulthed.php-mysql
     - ansible-role-phpmyadmin
